@@ -1,0 +1,5 @@
+LOGIN_URL = '/api/login/'
+SUBJECT_URL = '/api/subjects/'
+TEACHER_URL = '/api/teachers/'
+PRAISE_URL = '/api/praise/'
+LOGOUT_URL = '/api/logout/'
